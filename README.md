@@ -22,23 +22,6 @@ A super simple charming and aesthetically pleasing Pomodoro timer web applicatio
   <li>Custom CSS animations</li>
 </ul>
 
-<h2>📦 Project Structure</h2>
-<p>
-```plaintext
-cozy-pomodoro/
-├── index.html
-├── app.js
-├── assets/
-│   ├── cozy-library-bg.png
-│   ├── balloon-5.png
-│   ├── balloon-10.png
-│   ├── balloon-15.png
-│   ├── balloon-25.png
-│   ├── start-sign.png
-│   ├── stop-sign.png
-│   └── timer-complete.mp3
-</p>
-
 <h2>🛠️ Setup</h2> 
 <ul> 
     <li>1. Clone the repository</li> 
